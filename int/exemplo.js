@@ -5,12 +5,12 @@ var titulo = document.querySelector(".art");
 
   function climatizacao(){
 
-    document.getElementById('dois'). innerHTML = "<iframe src='climatização.html' frameborder='0'></iframe>"
+    document.getElementById('dois'). innerHTML = "<iframe src='./html/climatização.html' frameborder='0'></iframe>"
    }
 
   function servico(){
 
-    document.getElementById('dois'). innerHTML = "<iframe src='serviço.html' frameborder='0'></iframe>"
+    document.getElementById('dois'). innerHTML = "<iframe src='./html/serviço.html' frameborder='0'></iframe>"
     
    }
 
